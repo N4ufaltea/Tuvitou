@@ -340,3 +340,55 @@ button {
     box-shadow: 10px solid #000;
     color: #fff;
 }
+/* Media Query untuk tampilan mobile */
+@media only screen and (max-width: 768px) {
+    header {
+        height: 60vh; /* Mengurangi tinggi header untuk perangkat kecil */
+    }
+
+    .container {
+        width: 90%; /* Menyesuaikan lebar container agar pas di layar kecil */
+    }
+
+    
+
+    .item .content {
+        top: 10%; /* Menurunkan posisi konten untuk tampilan mobile */
+        left: 5%;
+        width: 40%; /* Mengizinkan teks menggunakan lebih banyak ruang */
+      font-size: 10px;
+      }
+
+    .content .name {
+      margin-top: 250%;
+        font-size: 14px; /* Mengurangi ukuran font judul di perangkat kecil */
+    }
+
+  
+    button {
+        width: 8em;
+        height: 3em;
+        font-size: 12px; /* Mengurangi ukuran tombol */
+    }
+
+    .arrow {
+        width: 10%; /* Menyesuaikan ukuran panah */
+        height: 25%;
+    }
+
+    .button {
+        top: 500px; /* Mengatur posisi tombol navigasi */
+    }
+
+    .button button {
+        width: 30px; /* Mengurangi ukuran tombol navigasi */
+        height: 30px;
+    }
+
+    /* Mengatur ukuran video untuk perangkat kecil */
+    header video {
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+    }
+}
