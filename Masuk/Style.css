@@ -341,13 +341,16 @@ button {
     color: #fff;
 }
 /* Media Query untuk tampilan mobile */
-@media only screen and (max-width: 768px) {
+@media screen and (max-width: 991.98px) {
     header {
+      
         height: 60vh; /* Mengurangi tinggi header untuk perangkat kecil */
+        
     }
 
     .container {
         width: 90%; /* Menyesuaikan lebar container agar pas di layar kecil */
+       
     }
 
     
