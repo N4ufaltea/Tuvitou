@@ -116,35 +116,53 @@ header video {
     animation: animate 1s ease-in-out 1 forwards;
 }
 
-.content .des{
+.content .des {
     margin-top: 10px;
     margin-bottom: 20px;
     background-color: black;
-    display: inline;
+    color: white; /* Ensure text is visible against the black background */
+    display: inline-block;
+    padding: 5px 10px; /* Adjust padding as necessary */
     opacity: 0;
     box-shadow: -10px #000;
     animation: animate 1s ease-in-out 0.3s 1 forwards;
 }
 
-.content .lok{
+.content .lok {
     margin-top: 10px;
     margin-bottom: 20px;
     background-color: black;
-    display: inline;
+    color: white;
+    display: inline-block;
+    padding: 5px 10px;
     opacity: 0;
     box-shadow: -10px #000;
     animation: animate 1s ease-in-out 0.3s 1 forwards;
 }
 
-.content .harga{
+.content .harga {
     margin-top: 10px;
     margin-bottom: 20px;
     background-color: black;
-    display: inline;
+    color: white;
+    display: inline-block;
+    padding: 5px 10px;
     opacity: 0;
     box-shadow: -10px #000;
     animation: animate 1s ease-in-out 0.3s 1 forwards;
 }
+
+@keyframes animate {
+    0% {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
 
 .content button{
   
