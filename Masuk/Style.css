@@ -119,6 +119,8 @@ header video {
 .content .des{
     margin-top: 10px;
     margin-bottom: 20px;
+    text-background: black;
+    display: inline-flex;
     opacity: 0;
     box-shadow: -10px #000;
     animation: animate 1s ease-in-out 0.3s 1 forwards;
@@ -127,6 +129,8 @@ header video {
 .content .lok{
     margin-top: 10px;
     margin-bottom: 20px;
+    text-background: black;
+    display: inline-flex;
     opacity: 0;
     box-shadow: -10px #000;
     animation: animate 1s ease-in-out 0.3s 1 forwards;
@@ -135,6 +139,8 @@ header video {
 .content .harga{
     margin-top: 10px;
     margin-bottom: 20px;
+    text-background: black;
+    display: inline-flex;
     opacity: 0;
     box-shadow: -10px #000;
     animation: animate 1s ease-in-out 0.3s 1 forwards;
