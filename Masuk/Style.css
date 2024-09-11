@@ -120,6 +120,7 @@ header video {
     margin-top: 10px;
     margin-bottom: 20px;
     background-color: black;
+    display: inline;
     opacity: 0;
     box-shadow: -10px #000;
     animation: animate 1s ease-in-out 0.3s 1 forwards;
@@ -129,6 +130,7 @@ header video {
     margin-top: 10px;
     margin-bottom: 20px;
     background-color: black;
+    display: inline;
     opacity: 0;
     box-shadow: -10px #000;
     animation: animate 1s ease-in-out 0.3s 1 forwards;
@@ -138,6 +140,7 @@ header video {
     margin-top: 10px;
     margin-bottom: 20px;
     background-color: black;
+    display: inline;
     opacity: 0;
     box-shadow: -10px #000;
     animation: animate 1s ease-in-out 0.3s 1 forwards;
