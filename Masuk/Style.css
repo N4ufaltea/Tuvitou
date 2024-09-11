@@ -119,9 +119,7 @@ header video {
 .content .des{
     margin-top: 10px;
     margin-bottom: 20px;
-    display: table; /* keep the background color wrapped tight */
-    margin: 0px auto 0px auto; /* keep the table centered */
-    padding:5px;font-size:20px;background-color:green;
+    background-color: black;
     opacity: 0;
     box-shadow: -10px #000;
     animation: animate 1s ease-in-out 0.3s 1 forwards;
@@ -130,9 +128,7 @@ header video {
 .content .lok{
     margin-top: 10px;
     margin-bottom: 20px;
-    display: table; /* keep the background color wrapped tight */
-    margin: 0px auto 0px auto; /* keep the table centered */
-    padding:5px;font-size:20px;background-color:green;
+    background-color: black;
     opacity: 0;
     box-shadow: -10px #000;
     animation: animate 1s ease-in-out 0.3s 1 forwards;
@@ -141,9 +137,7 @@ header video {
 .content .harga{
     margin-top: 10px;
     margin-bottom: 20px;
-     display: table; /* keep the background color wrapped tight */
-    margin: 0px auto 0px auto; /* keep the table centered */
-    padding:5px;font-size:20px;background-color:green;
+    background-color: black;
     opacity: 0;
     box-shadow: -10px #000;
     animation: animate 1s ease-in-out 0.3s 1 forwards;
