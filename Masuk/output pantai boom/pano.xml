@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.14" apprev="18105">
+  <panorama id="node1">
+    <input leveltilesize="510" levelbias="0.400" width="2048" levelingroll="0" levelbiashidpi="1.000" height="2048" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pantai Boom" longitude="" source="" nodeid="node1" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-3.47" url="{node3}" target="" pan="-38.49" description="" skinid="ht_node" title="" id="Point01"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/y2mate.com - TWO MINUTE OCEAN MEDITATIONSound of Waves.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-57.530" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-34.440" nodechangekeep="0" id="Element01">
+        <source url="media/Pantai boom pintu masuk.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" levelbias="0.400" width="2048" levelingroll="0" levelbiashidpi="1.000" height="2048" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pantai Boom" longitude="" source="" nodeid="node3" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-1.6" url="{node1}" target="" pan="-197.16" description="" skinid="ht_node" title="" id="Loket"/>
+      <hotspot tilt="-3.32" url="{node2}" target="" pan="-97.44" description="" skinid="ht_node" title="" id="Sumur"/>
+      <hotspot tilt="0.58" url="images/denah.jpg" target="" pan="-50.54" description="" skinid="ht_image" title="Denah Pantai Boom" id="Point01"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/y2mate.com - TWO MINUTE OCEAN MEDITATIONSound of Waves.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-28.270" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-22.620" nodechangekeep="0" id="Element01">
+        <source url="media/Pantai Boom baru masuk.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" levelbias="0.400" width="2048" levelingroll="0" levelbiashidpi="1.000" height="2048" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pantai Boom" longitude="" source="" nodeid="node2" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-5.68" url="{node3}" target="" pan="-284.2" description="" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="0.23" url="{node4}" target="" pan="-9.1" description="" skinid="ht_node" title="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/y2mate.com - TWO MINUTE OCEAN MEDITATIONSound of Waves.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-23.710" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-53.360" nodechangekeep="0" id="Element01">
+        <source url="media/Sumur pantai boom.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" levelbias="0.400" width="2048" levelingroll="0" levelbiashidpi="1.000" height="2048" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pantai Boom" longitude="" source="" nodeid="node4" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-1.57" url="{node2}" target="" pan="-246.36" description="" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="-4.54" url="{node5}" target="" pan="-115.87" description="" skinid="ht_node" title="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/y2mate.com - TWO MINUTE OCEAN MEDITATIONSound of Waves.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-23.940" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-102.540" nodechangekeep="0" id="Element01">
+        <source url="media/Permainan air.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" levelbias="0.400" width="2048" levelingroll="0" levelbiashidpi="1.000" height="2048" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pantai Boom" longitude="" source="" nodeid="node5" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-2.74" url="{node4}" target="" pan="-310.41" description="" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="-1.51" url="{node6}" target="" pan="-102.07" description="" skinid="ht_node" title="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/y2mate.com - TWO MINUTE OCEAN MEDITATIONSound of Waves.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-13.560" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-99.670" nodechangekeep="0" id="Element01">
+        <source url="media/Playground boom.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" levelbias="0.400" width="2048" levelingroll="0" levelbiashidpi="1.000" height="2048" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pantai Boom" longitude="" source="" nodeid="node6" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-1.44" url="{node5}" target="" pan="-268.33" description="" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="-2.29" url="{node9}" target="" pan="-104.74" description="" skinid="ht_node" title="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/y2mate.com - TWO MINUTE OCEAN MEDITATIONSound of Waves.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-20.270" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-91.340" nodechangekeep="0" id="Element01">
+        <source url="media/Panggung terbuka boom.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" levelbias="0.400" width="2048" levelingroll="0" levelbiashidpi="1.000" height="2048" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pantai Boom" longitude="" source="" nodeid="node9" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-1.37" url="{node8}" target="" pan="-49.63" description="" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="-3.65" url="{node6}" target="" pan="-175.71" description="" skinid="ht_node" title="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/y2mate.com - TWO MINUTE OCEAN MEDITATIONSound of Waves.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" levelbias="0.400" width="2048" levelingroll="0" levelbiashidpi="1.000" height="2048" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pantai Boom" longitude="" source="" nodeid="node8" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-2.03" url="{node9}" target="" pan="-227.25" description="" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="-2.87" url="{node7}" target="" pan="-24.27" description="" skinid="ht_node" title="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/y2mate.com - TWO MINUTE OCEAN MEDITATIONSound of Waves.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" levelbias="0.400" width="2048" levelingroll="0" levelbiashidpi="1.000" height="2048" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pantai Boom" longitude="" source="" nodeid="node7" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-3.32" url="{node8}" target="" pan="-199.29" description="" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="-0.58" url="{node10}" target="" pan="-33.29" description="" skinid="ht_node" title="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/y2mate.com - TWO MINUTE OCEAN MEDITATIONSound of Waves.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-4.940" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-98.730" nodechangekeep="0" id="Element01">
+        <source url="media/Pantai boom tulisan.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" levelbias="0.400" width="2048" levelingroll="0" levelbiashidpi="1.000" height="2048" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pantai Boom" longitude="" source="" nodeid="node10" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-1.15" url="{node7}" target="" pan="-204.26" description="" skinid="ht_node" title="" id="Point01"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/y2mate.com - TWO MINUTE OCEAN MEDITATIONSound of Waves.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-7.340" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-101.200" nodechangekeep="0" id="Element01">
+        <source url="media/Ujung pantai boom.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" heading="0" comment="" tags="" longitude="" source="" nodeid="master" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+  </masternode>
+</tour>

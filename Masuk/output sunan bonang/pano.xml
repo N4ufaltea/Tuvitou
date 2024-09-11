@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" appversion="6.1.14" apprev="18105">
+  <panorama id="node2">
+    <input leveltilesize="510" levelbias="0.400" width="2048" levelingroll="0" levelbiashidpi="1.000" height="2048" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Sunan bonang" longitude="" source="" nodeid="node2" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-7.54" url="{node3}" target="" pan="-359.56" description="" skinid="ht_node" title="" id="Point01"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-25.290" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-2.090" nodechangekeep="0" id="Element01">
+        <source url="media/ttsmaker-file-2024-7-16-21-36-52.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="1" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" levelbias="0.400" width="2048" levelingroll="0" levelbiashidpi="1.000" height="2048" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Sunan bonang" longitude="" source="" nodeid="node3" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-10.54" url="{node1}" target="" pan="-294" description="" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="-6.97" url="{node2}" target="" pan="-172.04" description="" skinid="ht_node" title="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-18.580" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-3.650" nodechangekeep="0" id="Element01">
+        <source url="media/ttsmaker-file-2024-7-16-21-43-9.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="1" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltilesize="510" levelbias="0.400" width="2048" levelingroll="0" levelbiashidpi="1.000" height="2048" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Sunan bonang" longitude="" source="" nodeid="node1" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-20.08" url="{node3}" target="" pan="-231.44" description="" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="-1.82" url="{node4}" target="" pan="-3.04" description="" skinid="ht_node" title="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-23.000" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-266.920" nodechangekeep="0" id="Element01">
+        <source url="media/ttsmaker-file-2024-7-16-21-45-37.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="1" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" levelbias="0.400" width="1040" levelingroll="0" levelbiashidpi="1.000" height="1040" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="1040" height="1040" preload="0"/>
+      <level predecode="0" width="520" height="520" preload="0"/>
+      <level predecode="1" width="260" height="260" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pano2VR6" longitude="" source="" nodeid="node4" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-2.09" url="{node1}" target="" pan="-178.36" description="" skinid="ht_node" title="" id="Point01"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-21.350" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-344.810" nodechangekeep="0" id="Element01">
+        <source url="media/ttsmaker-file-2024-7-16-21-48-5.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="1" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" heading="0" comment="" tags="" longitude="" source="" nodeid="master" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+  </masternode>
+</tour>

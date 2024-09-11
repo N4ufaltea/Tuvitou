@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node10" appversion="6.1.14" apprev="18105">
+  <panorama id="node10">
+    <input leveltilesize="510" levelbias="0.400" width="1040" levelingroll="0" levelbiashidpi="1.000" height="1040" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="1040" height="1040" preload="0"/>
+      <level predecode="0" width="520" height="520" preload="0"/>
+      <level predecode="1" width="260" height="260" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pano Museum" longitude="" source="" nodeid="node10" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-4.37" url="{node1}" target="" pan="-9.2" description="" skinid="ht_node" title="" id="Point01"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-37.490" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-2.400" nodechangekeep="0" id="Element01">
+        <source url="media/halaman.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/utomp3.com - Gending Musik Jawa Gamelan Jawa  Javanese Gamelan.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltilesize="510" levelbias="0.400" width="1040" levelingroll="0" levelbiashidpi="1.000" height="1040" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="1040" height="1040" preload="0"/>
+      <level predecode="0" width="520" height="520" preload="0"/>
+      <level predecode="1" width="260" height="260" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pano Museum" longitude="" source="" nodeid="node1" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-12.24" url="{node12}" target="" pan="-103.03" description="" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="-16.75" url="{node10}" target="" pan="-203.26" description="" skinid="ht_node" title="" id="Point02"/>
+      <hotspot tilt="-10.2" url="{node8}" target="" pan="-306.03" description="" skinid="ht_node" title="" id="Point03"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-17.720" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-24.820" nodechangekeep="0" id="Element02">
+        <source url="media/ttsmaker-file-2024-7-16-22-53-11.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/utomp3.com - Gending Musik Jawa Gamelan Jawa  Javanese Gamelan.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltilesize="510" levelbias="0.400" width="1040" levelingroll="0" levelbiashidpi="1.000" height="1040" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="1040" height="1040" preload="0"/>
+      <level predecode="0" width="520" height="520" preload="0"/>
+      <level predecode="1" width="260" height="260" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pano Museum" longitude="" source="" nodeid="node12" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-34.33" url="images/kamput_5.jpg" target="" pan="-213.57" description="" skinid="ht_image" title="Altar Pemujaan" id="Point03"/>
+      <hotspot tilt="-33.82" url="images/kamput_6.jpg" target="" pan="-161.82" description="" skinid="ht_image" title="Lingga-Yoni" id="Point04"/>
+      <hotspot tilt="-2.18" url="images/kamput_7.jpg" target="_top" pan="-290.75" description="" skinid="ht_image" title="Arca Pancuran" id="Point05"/>
+      <hotspot tilt="0.83" url="images/kamput_10.jpg" target="" pan="-304.37" description="" skinid="ht_image" title="Arca Ganesha" id="Point06"/>
+      <hotspot tilt="-23.45" url="images/kamput_14.jpg" target="" pan="-54.2" description="" skinid="ht_image" title="Prasasti Gesikan" id="Point07"/>
+      <hotspot tilt="-18.2" url="images/kamput_9.jpg" target="" pan="-332.93" description="" skinid="ht_image" title="Arca Nandi" id="Point08"/>
+      <hotspot tilt="-15.63" url="images/kamput_13.jpg" target="" pan="-37.72" description="" skinid="ht_image" title="Lumpang" id="Point09"/>
+      <hotspot tilt="-9.21" url="images/kamput_17.jpg" target="" pan="-33.14" description="" skinid="ht_image" title="Nampan" id="Point10"/>
+      <hotspot tilt="-11.89" url="images/kamput_11.jpg" target="" pan="-351.94" description="" skinid="ht_image" title="Peripih" id="Point11"/>
+      <hotspot tilt="-15.25" url="images/kamput_12.jpg" target="" pan="-343.46" description="" skinid="ht_image" title="Arca Buddha Kasobhya" id="Point13"/>
+      <hotspot tilt="-39.77" url="images/kamput_15.jpg" target="" pan="-73.13" description="" skinid="ht_image" title="Fragmen Arca" id="Point12"/>
+      <hotspot tilt="-12.09" url="{node3}" target="" pan="-16.8" description="" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="-22.17" url="{node1}" target="" pan="-273.97" description="" skinid="ht_node" title="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-36.620" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-9.810" nodechangekeep="0" id="Element01">
+        <source url="media/ruang 1.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/utomp3.com - Gending Musik Jawa Gamelan Jawa  Javanese Gamelan.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" levelbias="0.400" width="1040" levelingroll="0" levelbiashidpi="1.000" height="1040" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="1040" height="1040" preload="0"/>
+      <level predecode="0" width="520" height="520" preload="0"/>
+      <level predecode="1" width="260" height="260" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pano Museum" longitude="" source="" nodeid="node3" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-39.54" url="images/kamput_20.jpg" target="" pan="-32.3" description="" skinid="ht_image" title="Jangkar" id="Point03"/>
+      <hotspot tilt="-6.3" url="images/kamput_21.jpg" target="" pan="-276.94" description="" skinid="ht_image" title="Keramik Asing" id="Point04"/>
+      <hotspot tilt="-27.34" url="images/kamput_22.jpg" target="" pan="-275.8" description="" skinid="ht_image" title="Keramik Cina" id="Point05"/>
+      <hotspot tilt="-23.13" url="images/kamput_23.jpg" target="" pan="-259.98" description="" skinid="ht_image" title="Botol Merkuri" id="Point06"/>
+      <hotspot tilt="-27.07" url="images/kamput_19.jpg" target="" pan="-120.74" description="" skinid="ht_image" title="Pedang Pasukan Mongol" id="Point07"/>
+      <hotspot tilt="-10.35" url="{node12}" target="" pan="-203.33" description="" skinid="ht_node" title="" id="Point02"/>
+      <hotspot tilt="-12.25" url="{node4}" target="" pan="-16.03" description="" skinid="ht_node" title="" id="Point01"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-42.700" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-346.020" nodechangekeep="0" id="Element01">
+        <source url="media/ruang 2.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/utomp3.com - Gending Musik Jawa Gamelan Jawa  Javanese Gamelan.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" levelbias="0.400" width="1040" levelingroll="0" levelbiashidpi="1.000" height="1040" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="1040" height="1040" preload="0"/>
+      <level predecode="0" width="520" height="520" preload="0"/>
+      <level predecode="1" width="260" height="260" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pano Museum" longitude="" source="" nodeid="node4" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-4.13" url="images/kamput_24.jpg" target="" pan="-242.85" description="" skinid="ht_image" title="" id="Point03"/>
+      <hotspot tilt="-13.33" url="{node3}" target="" pan="-208.87" description="" skinid="ht_node" title="" id="Point02"/>
+      <hotspot tilt="-17.72" url="{node13}" target="" pan="-306.13" description="" skinid="ht_node" title="" id="Point01"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/utomp3.com - Gending Musik Jawa Gamelan Jawa  Javanese Gamelan.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltilesize="510" levelbias="0.400" width="1040" levelingroll="0" levelbiashidpi="1.000" height="1040" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="1040" height="1040" preload="0"/>
+      <level predecode="0" width="520" height="520" preload="0"/>
+      <level predecode="1" width="260" height="260" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pano Museum" longitude="" source="" nodeid="node13" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-16.9" url="{node4}" target="" pan="-114.04" description="" skinid="ht_node" title="" id="Point03"/>
+      <hotspot tilt="-10.12" url="{node2}" target="" pan="-201.6" description="" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="-14.07" url="{node9}" target="" pan="-268.7" description="" skinid="ht_node" title="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-49.720" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-243.860" nodechangekeep="0" id="Element01">
+        <source url="media/ruang 3.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/utomp3.com - Gending Musik Jawa Gamelan Jawa  Javanese Gamelan.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" levelbias="0.400" width="1040" levelingroll="0" levelbiashidpi="1.000" height="1040" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="1040" height="1040" preload="0"/>
+      <level predecode="0" width="520" height="520" preload="0"/>
+      <level predecode="1" width="260" height="260" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pano Museum" longitude="" source="" nodeid="node2" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-10.91" url="{node13}" target="" pan="-16" description="" skinid="ht_node" title="" id="Point02"/>
+      <hotspot tilt="-17.48" url="{node5}" target="" pan="-282.87" description="" skinid="ht_node" title="" id="Point01"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/utomp3.com - Gending Musik Jawa Gamelan Jawa  Javanese Gamelan.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" levelbias="0.400" width="1040" levelingroll="0" levelbiashidpi="1.000" height="1040" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="1040" height="1040" preload="0"/>
+      <level predecode="0" width="520" height="520" preload="0"/>
+      <level predecode="1" width="260" height="260" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pano Museum" longitude="" source="" nodeid="node5" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-15.34" url="{node9}" target="" pan="-18.56" description="" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="-18.29" url="{node2}" target="" pan="-130.95" description="" skinid="ht_node" title="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/utomp3.com - Gending Musik Jawa Gamelan Jawa  Javanese Gamelan.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" levelbias="0.400" width="1040" levelingroll="0" levelbiashidpi="1.000" height="1040" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="1040" height="1040" preload="0"/>
+      <level predecode="0" width="520" height="520" preload="0"/>
+      <level predecode="1" width="260" height="260" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pano Museum" longitude="" source="" nodeid="node9" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-12.95" url="{node13}" target="" pan="-90.23" description="" skinid="ht_node" title="" id="Point03"/>
+      <hotspot tilt="-14.64" url="{node5}" target="" pan="-196.33" description="" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="-18.61" url="{node7}" target="" pan="-275.74" description="" skinid="ht_node" title="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/utomp3.com - Gending Musik Jawa Gamelan Jawa  Javanese Gamelan.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" levelbias="0.400" width="1040" levelingroll="0" levelbiashidpi="1.000" height="1040" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="1040" height="1040" preload="0"/>
+      <level predecode="0" width="520" height="520" preload="0"/>
+      <level predecode="1" width="260" height="260" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pano Museum" longitude="" source="" nodeid="node7" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-17.14" url="{node9}" target="" fov="6" customimagewidth="1080" use3D="1" distance3D="10303.8" customimage="media/dir arrow.png" pan="-109.17" description="" customimageheight="1080" skinid="ht_node" title="" id="Point01"/>
+      <hotspot tilt="-11.98" url="{node6}" target="" pan="-195.39" description="" skinid="ht_node" title="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-45.020" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-193.170" nodechangekeep="0" id="Element01">
+        <source url="media/ruang 5.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/utomp3.com - Gending Musik Jawa Gamelan Jawa  Javanese Gamelan.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" levelbias="0.400" width="1040" levelingroll="0" levelbiashidpi="1.000" height="1040" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="1040" height="1040" preload="0"/>
+      <level predecode="0" width="520" height="520" preload="0"/>
+      <level predecode="1" width="260" height="260" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pano Museum" longitude="" source="" nodeid="node6" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-12.03" url="{node8}" target="" pan="-190.78" description="" skinid="ht_node" title="" id="Point02"/>
+      <hotspot tilt="-9.68" url="{node7}" target="" pan="-14.61" description="" skinid="ht_node" title="" id="Point01"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/utomp3.com - Gending Musik Jawa Gamelan Jawa  Javanese Gamelan.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" levelbias="0.400" width="1040" levelingroll="0" levelbiashidpi="1.000" height="1040" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level predecode="0" width="1040" height="1040" preload="0"/>
+      <level predecode="0" width="520" height="520" preload="0"/>
+      <level predecode="1" width="260" height="260" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata datetime="" heading="0" comment="" tags="Pano Museum" longitude="" source="" nodeid="node8" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" backgroundalpha="1" borderalpha="1" borderradius="1" height="20" enabled="1" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-15.36" url="{node1}" target="" fov="6" customimagewidth="1080" use3D="1" distance3D="10303.8" customimage="media/dir arrow.png" pan="-113" description="" customimageheight="1080" skinid="ht_node" title="" id="Point02"/>
+      <hotspot tilt="-11.26" url="{node6}" target="" pan="-12.82" description="" skinid="ht_node" title="" id="Point03"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" ambientlevel="0.000" level="1.000" tilt="-43.890" loop="1" tiltsize="10.000" startmutedmobile="0" mode="2" pansize="10.000" pan="-169.790" nodechangekeep="0" id="Element01">
+        <source url="media/ruang 6.mp3"/>
+      </sound>
+      <sound field="90.000" ambientlevel="0.000" level="0.500" tilt="-1.000" loop="0" tiltsize="10.000" startmutedmobile="0" mode="0" pansize="10.000" pan="-1.000" nodechangekeep="0" id="_background">
+        <source url="media/utomp3.com - Gending Musik Jawa Gamelan Jawa  Javanese Gamelan.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" contextfullscreen="1" contextprojections="0" sensitivity="8" contextvr="1" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" heading="0" comment="" tags="" longitude="" source="" nodeid="master" description="" author="" title="" copyright="" info="" latitude="" customnodeid=""/>
+  </masternode>
+</tour>
