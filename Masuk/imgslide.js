@@ -8,7 +8,7 @@ function toggleVideo(){
 function changeBg(bg, title){
     const banner = document.querySelector('.banner');
     const contents = document.querySelectorAll('.content');
-    banner.style.background = `url("image/wisata/${bg}")`;
+    banner.style.background = `url("asset/wisata/${bg}")`;
     banner.style.backgroundSize = 'Cover';
     banner.style.backgroundPosition = 'center';
 
