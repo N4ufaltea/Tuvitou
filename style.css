@@ -405,6 +405,7 @@ footer .layar-dalam .copyright{
         width: 90%;
     }
     header img {
+        scale: 70%;
     position: absolute;
     top: 0;
     left: 0;
@@ -414,6 +415,7 @@ footer .layar-dalam .copyright{
     z-index: -2;
 }
 header .judul img{
+    scale: 70%;
 width: 100%;
 height: 100%;
 z-index: 1;
