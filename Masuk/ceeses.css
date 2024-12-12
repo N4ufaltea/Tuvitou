@@ -98,7 +98,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: url('image/wisata/bg-museum.png') no-repeat;
+    background: url('asset/bg-museum.png') no-repeat;
     background-size: cover;
     background-position: center;
     overflow: hidden;
